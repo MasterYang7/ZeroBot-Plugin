@@ -1,8 +1,6 @@
 module github.com/FloatTech/ZeroBot-Plugin
 
-go 1.23.0
-
-toolchain go1.24.1
+go 1.20
 
 require (
 	github.com/Baidu-AIP/golang-sdk v1.1.1
